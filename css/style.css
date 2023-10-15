@@ -741,7 +741,7 @@ address {
 
 @media (min-width: 321px) and (max-width: 768px) {
   body {
-    margin-left: 30px;
+    margin-left: 150px;
   }
   .container {
     max-width: 768px;
